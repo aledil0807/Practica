@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-chanchito feliz2
-=======
 chanchito feliz2
 chanchito feliz
->>>>>>> parent of d40d5d8 (Estoy borrando los archivos de prueba)
